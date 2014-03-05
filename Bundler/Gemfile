@@ -1,0 +1,3 @@
+source 'https://rubygems.org'
+#Con este comando se puede instalar el metalenguaje Sass+Compass para poder usar la carpeta Sass
+gem 'compass'
